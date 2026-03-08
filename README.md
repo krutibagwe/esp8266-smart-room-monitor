@@ -19,9 +19,16 @@ This project is an **Arduino/ESP8266-based IoT system** that monitors environmen
 
 ---
 
+## Technologies Used
+
+**Languages:** Embedded C++ (Arduino)  
+**Microcontroller IDE:** Arduino IDE (v2.0 or later)  
+**Cloud Platform:** Firebase Realtime Database  
+**Frontend Dashboard:** HTML, CSS, JavaScript  
+**Libraries Used:** `ESP8266WiFi.h`, `FirebaseESP8266.h`, `DHT.h`
 ## System Flow (Block Diagram)
 
- 
+ ---
 
 ![System Block Diagram](system_block_diagram.png)
 
